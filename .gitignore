@@ -1,0 +1,6 @@
+myvet-v2-api
+*.exe
+coverage.out
+db
+repo
+mqtt
